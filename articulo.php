@@ -145,10 +145,10 @@ include('php/vista_articulo.php');
                                     2645705836 (Sólo WhatsApp)
                                 </span>
                             </a>
-                            <a href="mailto:administracion@colegiodepsicologossj.com.ar">
+                            <a href="mailto:administracion@colegiodepsicologossanjuan.com">
                                 <i class="fa fa-envelope" aria-hidden="true"></i>
                                 <span>
-                                    administracion@colegiodepsicologossj.com.ar
+                                    administracion@colegiodepsicologossanjuan.com
                                 </span>
                             </a>
                         </div>
